@@ -21,7 +21,7 @@ and letting an AI agent safely control a relay.
 
 | Guide | Status |
 |---|---|
-| ESP32 → self-hosted platform: provisioning, telemetry & remote control (EN/中文) | ✍️ writing |
+|| [ESP32 → self-hosted platform: provisioning, telemetry & remote control](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/01-esp32-mqtt-platform.md) (EN/中文) | ✅ published |
 | OTA for production fleets: A/B partitions, rollback, safe mode | 📋 planned |
 | MCP for microcontrollers: letting Claude/GPT control a relay safely | 📋 planned |
 
