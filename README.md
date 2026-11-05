@@ -8,7 +8,7 @@ and letting an AI agent safely control a relay.
 
 **What I work on**
 
-- 🔧 [ThingBoot SDKs](https://github.com/ThingBoot) — open-source ESP-IDF / Arduino / STM32 device SDKs (28 repos)
+- 🧰 [ThingBoot SDKs](https://github.com/ThingBoot) — free ESP-IDF / Arduino / STM32 device SDKs (28 repos)
 - 🌐 [Open AIoT](https://www.open-aiot.com/en/) — an open interface between AI agents and physical things
 - 🏭 [NewBeeMaker](https://www.newbeemaker.com/) — build your own-brand IoT platform (white-label / OEM)
 - 🏠 [ThingBoot](https://www.thingboot.com/) — full-stack open IoT solutions
