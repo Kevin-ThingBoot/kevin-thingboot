@@ -21,8 +21,8 @@ and letting an AI agent safely control a relay.
 
 | Guide | Status |
 |---|---|
-|| [ESP32 → self-hosted platform: provisioning, telemetry & remote control](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/01-esp32-mqtt-platform.md) (EN/中文) | ✅ published |
-| | [OTA for production fleets: A/B partitions, rollback, safe mode](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/02-esp32-ota-production.md) (EN/中文) | ✅ published |
+| [ESP32 → self-hosted platform: provisioning, telemetry & remote control](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/01-esp32-mqtt-platform.md) (EN/中文) | ✅ published |
+| [OTA for production fleets: A/B partitions, rollback, safe mode](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/02-esp32-ota-production.md) (EN/中文) | ✅ published |
 | MCP for microcontrollers: letting Claude/GPT control a relay safely | 📋 planned |
 
 *All opinions are my own. Content © Xinbu (Chengdu) Technology Co., Ltd.*
