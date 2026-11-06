@@ -17,12 +17,18 @@ and letting an AI agent safely control a relay.
 - 🛒 [YoYoIoT](https://www.yoyoiot.cn/) — smart devices with free HTTP control API (中文)
 - 🇨🇳 [Gitee mirror](https://gitee.com/ThingBoot/) — 国内镜像
 
-**Guides (in progress)**&#8203;
+**Guides**&#8203;
 
 | Guide | Status |
 |---|---|
 | [ESP32 → self-hosted platform: provisioning, telemetry & remote control](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/01-esp32-mqtt-platform.md) (EN/中文) | ✅ published |
 | [OTA for production fleets: A/B partitions, rollback, safe mode](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/02-esp32-ota-production.md) (EN/中文) | ✅ published |
-| MCP for microcontrollers: letting Claude/GPT control a relay safely | 📋 planned |
+| [MCP for microcontrollers: letting Claude/GPT control a relay safely](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/guides/03-ai-agents-mcp-relay.md) (EN/中文) | ✅ published |
+
+**Writing**&#8203;
+
+| Article | Also on |
+|---|---|
+| [Stop Rebuilding the Same Firmware: Turning One-Off IoT Projects Into Reusable Assets](https://github.com/Kevin-ThingBoot/thingboot-guides/blob/main/articles/one-off-iot-projects-to-reusable-assets.md) | [DEV](https://dev.to/kevin-thingboot/stop-rebuilding-the-same-firmware-turning-one-off-iot-projects-into-reusable-assets-5f23) · [Medium](https://medium.com/@kevin-thingboot/thingboot-guides-articles-one-off-iot-projects-to-reusable-assets-md-b2e3321387ee) |
 
 *All opinions are my own. Content © Xinbu (Chengdu) Technology Co., Ltd.*
